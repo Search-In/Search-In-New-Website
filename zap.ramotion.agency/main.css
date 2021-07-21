@@ -97,6 +97,8 @@ body.loading .highlight:after {
 }
 
 img {
+    margin: top 50px;
+    padding-left: 50px;
     user-select: none;
 }
 
