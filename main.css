@@ -98,8 +98,9 @@ body.loading .highlight:after {
 
 img {
     margin: top 50px;
-    padding-left: 50px;
+    padding-left: 4px;
     user-select: none;
+    padding-top: 50px;
 }
 
 canvas {
@@ -797,10 +798,6 @@ main .app-screen-mobile {
         display: flex !important;
         width: 100%;
     }
-}
-
-main .app-map-btn-blue {
-    transition: width 0.8s ease;
 }
 
 main .app-map-btn-text {
