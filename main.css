@@ -97,10 +97,9 @@ body.loading .highlight:after {
 }
 
 img {
-    margin: top 50px;
     padding-left: 4px;
     user-select: none;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
 canvas {
@@ -547,7 +546,7 @@ main .hero-container a:hover {
 }
 
 main .benefits {
-    padding-top: 32px;
+    padding-top: 3px;
     padding-bottom: 32px;
 }
 
