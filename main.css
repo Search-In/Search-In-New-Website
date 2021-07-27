@@ -99,7 +99,7 @@ body.loading .highlight:after {
 img {
     padding-left: 4px;
     user-select: none;
-    padding-top: 30px;
+    padding-top: 9px;
 }
 
 canvas {
@@ -430,8 +430,7 @@ main h3 {
 }
 
 main .hero {
-    padding-bottom: 32px;
-    display: flex;
+    padding-bottom: 0px;
     flex-flow: column;
     align-items: center;
     overflow: hidden;
